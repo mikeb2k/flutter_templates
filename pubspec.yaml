@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_slidable: ^3.0.0
+  share_plus: ^7.0.2
 
 dev_dependencies:
   flutter_test:
